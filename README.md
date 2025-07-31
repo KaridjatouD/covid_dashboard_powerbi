@@ -1,8 +1,6 @@
 # Power BI Dashboard – COVID-19 Overview (Mar 2020 – Mar 2021)
 
-
 This Power BI dashboard provides an interactive analysis of COVID-19 data in France from March 2020 to March 2021. It is designed to help visualize trends in testing, hospitalizations, deaths, and vaccination coverage across departments.
-
 
 ## Dashboard Structure
 
