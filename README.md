@@ -45,6 +45,7 @@ This Power BI dashboard provides an interactive analysis of COVID-19 data in Fra
 
 - rapport_covid.pbix – full Power BI file (2 report pages)
 - [Screenshots of dashboard](Screenshots)
+- [Dashboard](https://app.powerbi.com/view?r=eyJrIjoiOWZmYzU0NGMtNzAyZC00MWE5LWFhMWItOTI4ZTZhYzBmNGNiIiwidCI6Ijg3OTVlZGU2LWNlNWUtNDk2OC04NDljLWYwMTgxMzhlZDJjMCIsImMiOjF9)
 
 
 ## Author
